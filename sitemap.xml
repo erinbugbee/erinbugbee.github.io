@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/publication/ismir2018/ismir2018/</loc>
+      <loc>https://erinbugbee.github.io/publication/ismir2018/ismir2018/</loc>
       <lastmod>2018-09-23T00:00:00-04:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>https://erinbugbee.github.io/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>https://erinbugbee.github.io/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -28,15 +28,7 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/example/</loc>
+      <loc>https://erinbugbee.github.io/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -44,7 +36,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://erinbugbee.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -52,7 +44,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://erinbugbee.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -60,7 +52,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://erinbugbee.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -68,7 +60,7 @@
     
     <url>
     
-      <loc>/project/external-project/</loc>
+      <loc>https://erinbugbee.github.io/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -76,7 +68,7 @@
     
     <url>
     
-      <loc>/project/internal-project/</loc>
+      <loc>https://erinbugbee.github.io/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -84,7 +76,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>https://erinbugbee.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
     </url>
     
@@ -92,7 +84,7 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
+      <loc>https://erinbugbee.github.io/publication_types/1/</loc>
       <lastmod>2018-09-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -101,7 +93,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://erinbugbee.github.io/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -110,7 +102,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://erinbugbee.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -118,7 +110,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
+      <loc>https://erinbugbee.github.io/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -127,7 +119,7 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
+      <loc>https://erinbugbee.github.io/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -136,7 +128,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://erinbugbee.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -145,7 +137,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://erinbugbee.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -154,7 +146,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://erinbugbee.github.io/publication_types/</loc>
       <lastmod>2018-09-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -163,7 +155,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://erinbugbee.github.io/tags/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -172,7 +164,7 @@
     
     <url>
     
-      <loc>/tags/machine-learning/</loc>
+      <loc>https://erinbugbee.github.io/tags/machine-learning/</loc>
       <lastmod>2018-09-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -181,7 +173,7 @@
     
     <url>
     
-      <loc>/tags/music-information-retrieval/</loc>
+      <loc>https://erinbugbee.github.io/tags/music-information-retrieval/</loc>
       <lastmod>2018-09-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -190,7 +182,7 @@
     
     <url>
     
-      <loc>/tags/topological-data-analysis/</loc>
+      <loc>https://erinbugbee.github.io/tags/topological-data-analysis/</loc>
       <lastmod>2018-09-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
