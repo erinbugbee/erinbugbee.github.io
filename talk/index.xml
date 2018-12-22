@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Erin Bugbee</title>
+    <title>Talks &amp; Presentations on Erin Bugbee</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Erin Bugbee</description>
+    <description>Recent content in Talks &amp; Presentations on Erin Bugbee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,14 +13,30 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Comparing Songs Without Listening</title>
+      <link>/talk/math-slam/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+      <guid>/talk/math-slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women in Data Science Poster Presentation</title>
+      <link>/talk/wids/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/wids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to R Programming</title>
+      <link>/talk/datathon/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/datathon/</guid>
+      <description></description>
     </item>
     
   </channel>
