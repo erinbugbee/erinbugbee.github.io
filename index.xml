@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comparing Songs Without Listening</title>
       <link>/talk/math-slam/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>/talk/math-slam/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>SE and SnL Diagrams: Flexible Data Structures for MIR</title>
       <link>/publication/ismir2018/ismir2018/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/ismir2018/ismir2018/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>SUPP And MAPP: Novel MIR Data Structures Inspired by Topological Data Analysis</title>
       <link>/publication/latebreaking2018/latebreaking2018/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/latebreaking2018/latebreaking2018/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
@@ -60,7 +60,7 @@
     <item>
       <title>Women in Data Science Poster Presentation</title>
       <link>/talk/wids/</link>
-      <pubDate>Mon, 05 Mar 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/wids/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Intro to R Programming</title>
       <link>/talk/datathon/</link>
-      <pubDate>Sat, 03 Mar 2018 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/datathon/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>External Project</title>
       <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/external-project/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Internal Project</title>
       <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -105,7 +105,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>

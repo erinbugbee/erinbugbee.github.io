@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Comparing Songs Without Listening</title>
       <link>/talk/math-slam/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>/talk/math-slam/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Women in Data Science Poster Presentation</title>
       <link>/talk/wids/</link>
-      <pubDate>Mon, 05 Mar 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/wids/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Intro to R Programming</title>
       <link>/talk/datathon/</link>
-      <pubDate>Sat, 03 Mar 2018 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/datathon/</guid>
       <description></description>

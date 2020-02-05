@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>SE and SnL Diagrams: Flexible Data Structures for MIR</title>
       <link>/publication/ismir2018/ismir2018/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/ismir2018/ismir2018/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>SUPP And MAPP: Novel MIR Data Structures Inspired by Topological Data Analysis</title>
       <link>/publication/latebreaking2018/latebreaking2018/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/latebreaking2018/latebreaking2018/</guid>
       <description></description>
