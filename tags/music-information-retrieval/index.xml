@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music information retrieval on Erin Bugbee</title>
-    <link>https://erinbugbee.github.io/tags/music-information-retrieval/</link>
+    <link>/tags/music-information-retrieval/</link>
     <description>Recent content in music information retrieval on Erin Bugbee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 23 Sep 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://erinbugbee.github.io/tags/music-information-retrieval/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/music-information-retrieval/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SE and SnL Diagrams: Flexible Data Structures for MIR</title>
-      <link>https://erinbugbee.github.io/publication/ismir2018/ismir2018/</link>
+      <link>/publication/ismir2018/ismir2018/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://erinbugbee.github.io/publication/ismir2018/ismir2018/</guid>
+      <guid>/publication/ismir2018/ismir2018/</guid>
       <description></description>
     </item>
     
