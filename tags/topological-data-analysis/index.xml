@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>topological data analysis on Erin Bugbee</title>
-    <link>https://erinbugbee.github.io/tags/topological-data-analysis/</link>
+    <link>/tags/topological-data-analysis/</link>
     <description>Recent content in topological data analysis on Erin Bugbee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018-2020</copyright>
     <lastBuildDate>Fri, 16 Oct 2020 16:34:31 -0400</lastBuildDate>
     
-	<atom:link href="https://erinbugbee.github.io/tags/topological-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/topological-data-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SuPP and MaPP: Adaptable Structure-Based Representations for MIR Tasks</title>
-      <link>https://erinbugbee.github.io/publication/ismir2020/</link>
+      <link>/publication/ismir2020/</link>
       <pubDate>Fri, 16 Oct 2020 16:34:31 -0400</pubDate>
       
-      <guid>https://erinbugbee.github.io/publication/ismir2020/</guid>
+      <guid>/publication/ismir2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SE and SnL Diagrams: Flexible Data Structures for MIR</title>
-      <link>https://erinbugbee.github.io/publication/ismir2018/ismir2018/</link>
+      <link>/publication/ismir2018/ismir2018/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://erinbugbee.github.io/publication/ismir2018/ismir2018/</guid>
+      <guid>/publication/ismir2018/ismir2018/</guid>
       <description></description>
     </item>
     
